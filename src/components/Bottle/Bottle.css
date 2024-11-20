@@ -1,0 +1,18 @@
+.bottle{
+    background-color: beige;
+    border: 2px solid skyblue;
+    padding: 15px;
+    border-radius: 10px;
+    max-width: 350px;
+    box-shadow: 0px 5px 5px rgba(243, 237, 237, 0.8);
+}
+
+.bottle img{
+    width: 100%;
+    border-radius: 5px;
+}
+
+.bottle-info button{
+    background-color: bisque;
+    border: 1px solid;
+}
